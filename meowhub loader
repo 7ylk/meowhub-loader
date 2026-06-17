@@ -2,7 +2,7 @@
 -- 🐾 MeowHub - Premium GUI Loader
 -- Smooth animations, search filter, modern design, dragging, and loading states
 -- =============================================================================
-local baseUrl = "https://raw.githubusercontent.com/zzxncl/MeowHub-Scripts/main/scripts/"
+local baseUrl = "https://raw.githubusercontent.com/7ylk/meowhub-loader/main/scripts/"
 local Scripts = {
     ["Cut Grass for Anime"] = "cut grass for anime characters",
     ["Kick a Lucky Block"] = "kick a lucky block",
